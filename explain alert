@@ -1,0 +1,5 @@
+html file calls the script.js file and executes the alert line by line.
+-First “I'm  Javascript ” is executed.
+-Second “Hello” will be popped. Semicolon is optional in Javascript.(not strictly followed).
+-Third alert will get executed.
+-Fourth, since it has number ,it will get added and display “6”

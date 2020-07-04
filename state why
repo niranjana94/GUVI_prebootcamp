@@ -1,0 +1,2 @@
+-> lemein =”0” means its string so in if it will be true so printed hi.
+-> lemeout = 0 since its number got false in if statement.
